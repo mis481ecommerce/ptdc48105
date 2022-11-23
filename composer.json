@@ -33,7 +33,8 @@
         "drupal/commerce_shipping": "^2.4",
         "drupal/commerce_pricelist": "^2.7",
         "drupal/search_api": "^1.28",
-        "drupal/search_api_db": "^1.28"
+        "drupal/search_api_db": "^1.28",
+        "drupal/commerce_demo": "2.x-dev@dev"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
