@@ -28,7 +28,12 @@
         "drush-ops/behat-drush-endpoint": "^9.4",
         "pantheon-systems/quicksilver-pushback": "^2.1",
         "drupalcommerce/commerce_base": "9.x",
-        "drupal/belgrade": "^1.1"
+        "drupal/belgrade": "^1.1",
+        "drupal/color_field": "^2.5",
+        "drupal/commerce_shipping": "^2.4",
+        "drupal/commerce_pricelist": "^2.7",
+        "drupal/search_api": "^1.28",
+        "drupal/search_api_db": "^1.28"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
